@@ -1,14 +1,14 @@
 /* Place custom css here. */
 
 @font-face {
-    font-family: "LXGWWenKaiMonoGBLite-Light";
-    src: url("/fonts/LXGWWenKaiMonoGBLite-Light.ttf");
+    font-family: "LXGWWenKaiMonoGBLite-Regular";
+    src: url("/fonts/LXGWWenKaiMonoGBLite-Regular.ttf");
 }
 
 article {
-    font-family: "LXGWWenKaiMonoGBLite-Light";
+    font-family: "LXGWWenKaiMonoGBLite-Regular";
 }
 
 html {
-    font-family: "LXGWWenKaiMonoGBLite-Light";
+    font-family: "LXGWWenKaiMonoGBLite-Regular";
 }
