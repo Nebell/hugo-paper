@@ -1,1 +1,14 @@
 /* Place custom css here. */
+
+@font-face {
+    font-family: "LXGWWenKaiMonoGBLite-Light";
+    src: url("/fonts/LXGWWenKaiMonoGBLite-Light.ttf");
+}
+
+article {
+    font-family: "LXGWWenKaiMonoGBLite-Light";
+}
+
+html {
+    font-family: "LXGWWenKaiMonoGBLite-Light";
+}
