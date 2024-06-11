@@ -2,7 +2,9 @@
 
 @font-face {
     font-family: "LXGWWenKaiMonoGBLite-Regular";
-    src: url("/fonts/LXGWWenKaiMonoGBLite-Regular.ttf");
+    src: url("https://cdn.jsdelivr.net/gh/Nebell/hugo-paper@main/static/fonts/LXGWWenKaiMonoGBLite-Light.woff2") format("woff2"),
+        url("/fonts/LXGWWenKaiMonoGBLite-Regular.woff2") format("woff2"),
+        url("/fonts/LXGWWenKaiMonoGBLite-Regular.ttf") format("ttf");
 }
 
 article {
